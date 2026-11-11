@@ -4,7 +4,7 @@ Application iOS qui permet aux jeunes de 15 à 29 ans d'exprimer et de suivre le
 
 ## 📓 CONTEXTE
 
-Projet réalisé en équipe de 6 dans le cadre de l'Extended Apple Foundation Program chez SIMPLON.CO, en mars 2026.
+Projet réalisé en équipe de 4 dans le cadre de l'Extended Apple Foundation Program chez SIMPLON.CO, en mars 2026.
 
 Challenge : « améliorer le suivi émotionnel des jeunes âgés de 15 à 29 ans ». EmoDaily y répond en favorisant l'expression régulière des émotions.
 
@@ -42,10 +42,10 @@ Challenge : « améliorer le suivi émotionnel des jeunes âgés de 15 à 29 ans
 
 | Membre | GitHub | Contributions principales |
 |---|---|---|
-| Krystal  | [@kays-dev](https://github.com/kays-dev) | Structure du projet et modèle de données · écran Nouvelle entrée · upload des photos (Cloudinary) · connexion à l'API Airtable |
-| Julien  | [@hjulien02](https://github.com/hjulien02) 
-| Thomas  | [@toto38000](https://github.com/toto38000)
-| Myris 
+| Krystal | [@kays-dev](https://github.com/kays-dev) | Structure du projet et modèle de données · écran Nouvelle entrée · upload des photos (Cloudinary) · connexion à l'API Airtable |
+| Julien | [@hjulien02](https://github.com/hjulien02) | Défis et quêtes, tampons, statistiques, refonte de l'arborescence des vues |
+| Thomas | [@toto38000](https://github.com/toto38000) | Statistiques et profil, connectés à l'API |
+| Myris | [@myrisz](https://github.com/myrisz) | Journal et calendrier (semaine, mois), fenêtre d'entrée |
 
 ## 📜 LICENSE
 
